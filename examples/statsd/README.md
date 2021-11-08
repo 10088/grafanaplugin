@@ -6,7 +6,7 @@ This an example project to show the how StatsD + TDengine + Grafana works togeth
 
 ## Start
 
-Suppose you have latest [TDengine](http://taosdata.com/) **2.3+** installed and both `taosd` and `blm3` service started and `statsd` plugin enabled in `blm3`.
+Suppose you have latest [TDengine](http://taosdata.com/) **2.3+** installed and both `taosd` and `taosadapter` service started and `statsd` plugin enabled in `taosadapter`.
 
 You could check if port `6041` is ready to be connected with `telenet` or `curl` or so.
 

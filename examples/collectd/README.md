@@ -8,7 +8,7 @@ The CollectD dashboard comes from the top 1 downloaded [dashboard](https://grafa
 
 ## Start
 
-Suppose you have latest [TDengine](http://taosdata.com/) **2.3+** installed and both `taosd` and `blm3` service started.
+Suppose you have latest [TDengine](http://taosdata.com/) **2.3+** installed and both `taosd` and `taosadapter` service started.
 
 You could check if port `6041` is ready to be connected with `telenet` or `curl` or so.
 
